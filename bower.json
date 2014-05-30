@@ -1,0 +1,13 @@
+{
+  "name": "jasmine_angularjs",
+  "version": "0.0.0",
+  "authors": [
+    "Lazaro Fernandes Lima <lazaro.fl@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jasmine": "~2.0.0",
+    "angular": "~1.2.16"
+  }
+}
